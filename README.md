@@ -1,1 +1,1 @@
-# Deeplearning Bsics
+# Deeplearning Basics
